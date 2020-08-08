@@ -1,1 +1,1 @@
-# A very simple http api using scala and vertx
+# A very simple Rest API using scala and vertx
